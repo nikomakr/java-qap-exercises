@@ -1,3 +1,4 @@
+package Ex01;
 import java.util.Scanner; // due to Scanner, so we don't type java.util.Scanner every time
 
 public class Proj2_2_MadLibsClone { // saved as Proj2_2_MadLibsClone.java as class must match in Java with file name

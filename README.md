@@ -16,7 +16,7 @@ Content:
 
 There once was a ADJECTIVE1 girl named GIRLS_NAME, who was an ADJECTIVE2 OCCUPTION1 in the Kingdom of PLACE. She loved to wear CLOTHING and had a hobby to play HOBBY. She wanted to marry the ADJECTIVE3 OCCUPATION2 named BOYS_NAME but her father, King MANS_NAME forbid her from seeing him.
 
-
+## Ex02
 
 
 
